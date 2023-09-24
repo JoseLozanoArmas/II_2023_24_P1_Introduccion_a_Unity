@@ -37,3 +37,4 @@ public class ShowName : MonoBehaviour
 
 ## Gif de la escena
 A continuación se adjunta un gif con la escena realizada
+![Visualización de la escena](/Gif%20de%20la%20animación.gif)
